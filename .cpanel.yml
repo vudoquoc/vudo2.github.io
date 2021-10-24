@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/hthieu/public_html/
+    - export DEPLOYPATH=/home/vudo2/public_html/
     - /bin/cp -R ./ $DEPLOYPATH
